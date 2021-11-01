@@ -1,1 +1,8 @@
 /* styles go here */
+fieldset {
+  margin: 20px 0;
+}
+
+input {
+  margin: 10px 0;
+}
