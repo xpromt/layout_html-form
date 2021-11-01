@@ -3,6 +3,6 @@ fieldset {
   margin-bottom: 20px;
 }
 
-input:not(:last-child) {
+div:not(:last-child) {
   margin-bottom: 10px;
 }
